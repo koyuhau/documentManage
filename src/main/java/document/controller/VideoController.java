@@ -33,4 +33,9 @@ public class VideoController {
        return videoService.get();
     }
 
+    @RequestMapping("/deleteById")
+    public int deleteById(int id){
+        return videoService.deleteById(id);
+    }
+
 }
