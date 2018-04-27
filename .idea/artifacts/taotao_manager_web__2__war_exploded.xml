@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="taotao-manager-web (2):war exploded">
+    <output-path>$USER_HOME$/Desktop/taotao/taotao-manager/taotao-manager-web/target/m2e-wtp/web-resources/META-INF/maven/com.taotao/taotao-manager-web/target/taotao-manager-web-0.0.1-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="taotao-manager-web (2)" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="C:\Users\Administrator\Desktop\taotao\taotao-manager\taotao-manager-web\target\m2e-wtp\web-resources\META-INF\maven\com.taotao\taotao-manager-web\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="taotao-manager-web (2)/web/Web" />
+    </root>
+  </artifact>
+</component>
