@@ -1,0 +1,40 @@
+.articleImg{
+    width: 20px;
+    padding: 5px;
+}
+
+.box{
+    border: 1px solid #dddddd;
+    display:flex;
+
+}
+
+.title{
+    padding: 10px;
+    width: 261px;
+    line-height: normal;
+}
+
+/*CSS代码：*/
+/*左对齐*/
+.left {
+    text-align: left;
+    border: 1px dotted black;
+    width: 50%;
+}
+/*右对齐*/
+.right {
+    text-align: right;
+}
+/*居中对齐*/
+.center {
+    text-align: center;
+    border: 1px dotted black;
+    width: 50%;
+}
+/*两端对齐*/
+.justify {
+    text-align: justify;
+    border: 1px dotted black;
+    width: 50%;
+}
